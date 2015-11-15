@@ -1,0 +1,96 @@
+CadenceDetector: Step (y: pass zero upward): 1447128501798
+CadenceNotifierAdv: ----> 1.447129501798E12, 1.0, Initial filling
+CadenceNotifierAdv: CadenceChange: 0.0
+CadenceDetector: Step (y: pass zero upward): 1447128501810
+CadenceNotifierAdv: ----> 12.0, 1.0, Initial filling
+CadenceNotifierAdv: CadenceChange: 0.0
+CadenceDetector: Step (y: pass zero upward): 1447128502611
+CadenceNotifierAdv: ----> 801.0, 1.0, Initial filling
+CadenceNotifierAdv: CadenceChange: 0.0
+CadenceDetector: Step (y: pass zero upward): 1447128503374
+CadenceNotifierAdv: ----> 764.0, 1.0, Initial filling
+CadenceNotifierAdv: CadenceChange: 0.0
+CadenceDetector: Step (y: pass zero upward): 1447128504133
+CadenceNotifierAdv: ----> 758.0, 525.6666666666666, Larger
+CadenceNotifierAdv: CadenceChange: 139.5709397583519
+CadenceDetector: Step (y: pass zero upward): 1447128504880
+CadenceNotifierAdv: ----> 980.333251953125, 429.888916015625, Equal twice
+CadenceNotifierAdv: ========>  Cadence change threshold
+CadenceNotifierAdv: CadenceChange: 79.29515418502203
+CadenceDetector: Step (y: pass zero upward): 1447128505639
+CadenceNotifierAdv: ----> 758.0, 756.6666666666666, Equal
+CadenceNotifierAdv: CadenceChange: 119.5219123505976
+CadenceDetector: Step (y: pass zero upward): 1447128506008
+CadenceNotifierAdv: ----> 369.0, 502.0, Smaller
+CadenceNotifierAdv: CadenceChange: 119.5219123505976
+CadenceDetector: Step (y: pass zero upward): 1447128506427
+CadenceNotifierAdv: ----> 420.0, 375.6666666666667, Equal
+CadenceNotifierAdv: CadenceChange: 228.13688212927758
+CadenceDetector: Step (y: pass zero upward): 1447128507155
+CadenceNotifierAdv: ----> 728.0, 263.0, Larger
+CadenceNotifierAdv: ========>  Cadence change threshold
+CadenceNotifierAdv: CadenceChange: 228.13688212927758
+CadenceDetector: Step (y: pass zero upward): 1447128507921
+CadenceNotifierAdv: ----> -23.0, 263.0, Smaller
+CadenceNotifierAdv: CadenceChange: 228.13688212927758
+CadenceDetector: Step (y: pass zero upward): 1447128508657
+CadenceNotifierAdv: ----> 736.0, 255.33333333333334, Larger
+CadenceNotifierAdv: ========>  Cadence change threshold
+CadenceNotifierAdv: CadenceChange: 234.98694516971278
+CadenceDetector: Step (y: pass zero upward): 1447128509403
+CadenceNotifierAdv: ----> -20.0, 255.33333333333334, Smaller
+CadenceNotifierAdv: CadenceChange: 234.98694516971278
+CadenceDetector: Step (y: pass zero upward): 1447128510203
+CadenceNotifierAdv: ----> 799.0, 248.66666666666666, Larger
+CadenceNotifierAdv: ========>  Cadence change threshold
+CadenceNotifierAdv: CadenceChange: 120.64343163538875
+CadenceDetector: Step (y: pass zero upward): 1447128510962
+CadenceNotifierAdv: ----> -733.0, 497.3333333333333, Smaller
+CadenceNotifierAdv: CadenceChange: 120.64343163538875
+CadenceDetector: Step (y: pass zero upward): 1447128511707
+CadenceNotifierAdv: ----> 747.0, 170.111083984375, Larger
+CadenceNotifierAdv: ========>  Cadence change threshold
+CadenceNotifierAdv: CadenceChange: 117.57023429371031
+CadenceDetector: Step (y: pass zero upward): 1447128512484
+CadenceNotifierAdv: ----> -926.11083984375, 510.333251953125, Smaller
+CadenceNotifierAdv: CadenceChange: 117.57023429371031
+CadenceDetector: Step (y: pass zero upward): 1447128513224
+CadenceNotifierAdv: ----> 745.0, 88.22224934895833, Larger
+CadenceNotifierAdv: ========>  Cadence change threshold
+CadenceNotifierAdv: CadenceChange: 97.1572209355573
+CadenceDetector: Step (y: pass zero upward): 1447128513991
+CadenceNotifierAdv: ----> -2414.0009765625, 617.5557454427084, Smaller
+CadenceNotifierAdv: CadenceChange: 97.1572209355573
+CadenceDetector: Step (y: pass zero upward): 1447128514766
+CadenceNotifierAdv: ----> 776.0, -363.5557454427083, Larger
+CadenceNotifierAdv: CadenceChange: -193.08686787738796
+CadenceDetector: Step (y: pass zero upward): 1447128515528
+CadenceNotifierAdv: ----> 762.0, -310.740966796875, Larger
+CadenceNotifierAdv: CadenceChange: -205.47922298709625
+CadenceDetector: Step (y: pass zero upward): 1447128515842
+CadenceNotifierAdv: ----> 313.0, -292.0003255208333, Larger
+CadenceNotifierAdv: CadenceChange: 97.24473257698541
+CadenceDetector: Step (y: pass zero upward): 1447128516252
+CadenceNotifierAdv: ----> 412.0, 617.0, Smaller
+CadenceNotifierAdv: CadenceChange: 97.24473257698541
+CadenceDetector: Step (y: pass zero upward): 1447128516909
+CadenceNotifierAdv: ----> 655.0, 495.6666666666667, Larger
+CadenceNotifierAdv: ========>  Cadence change threshold
+CadenceNotifierAdv: CadenceChange: 156.43104339769042
+CadenceDetector: Step (y: pass zero upward): 1447128517560
+CadenceNotifierAdv: ----> 157.333251953125, 383.5555826822917, Smaller
+CadenceNotifierAdv: CadenceChange: 156.43104339769042
+CadenceDetector: Step (y: pass zero upward): 1447128518203
+CadenceNotifierAdv: ----> 655.0, 217.66666666666666, Larger
+CadenceNotifierAdv: ========>  Cadence change threshold
+CadenceNotifierAdv: CadenceChange: 137.82542113323126
+CadenceDetector: Step (y: pass zero upward): 1447128518852
+CadenceNotifierAdv: ----> -670.0, 435.3333333333333, Smaller
+CadenceNotifierAdv: CadenceChange: 137.82542113323126
+CadenceDetector: Step (y: pass zero upward): 1447128519544
+CadenceNotifierAdv: ----> 692.0, 139.44441731770834, Larger
+CadenceNotifierAdv: ========>  Cadence change threshold
+CadenceNotifierAdv: CadenceChange: 143.4263227220654
+CadenceDetector: Step (y: pass zero upward): 1447128520185
+CadenceNotifierAdv: ----> -748.444091796875, 418.333251953125, Smaller
+CadenceNotifierAdv: CadenceChange: 143.4263227220654

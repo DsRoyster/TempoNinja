@@ -1,0 +1,118 @@
+CadenceDetector: Step (y: pass zero upward): 1447125510184
+CadenceNotifierAdv: ----> 1.447126510184E12, 1.0, Initial filling
+CadenceNotifierAdv: CadenceChange: 0.0
+CadenceDetector: Step (y: pass zero upward): 1447125510947
+CadenceNotifierAdv: ----> 763.0, 1.0, Initial filling
+CadenceNotifierAdv: CadenceChange: 0.0
+CadenceDetector: Step (y: pass zero upward): 1447125511685
+CadenceNotifierAdv: ----> 738.0, 1.0, Initial filling
+CadenceNotifierAdv: CadenceChange: 0.0
+CadenceDetector: Step (y: pass zero upward): 1447125512418
+CadenceNotifierAdv: ----> 733.0, 1.0, Initial filling
+CadenceNotifierAdv: CadenceChange: 0.0
+CadenceDetector: Step (y: pass zero upward): 1447125513170
+CadenceNotifierAdv: ----> 752.0, 744.6666666666666, Equal
+CadenceNotifierAdv: CadenceChange: 80.97165991902834
+CadenceDetector: Step (y: pass zero upward): 1447125513934
+CadenceNotifierAdv: ----> 765.0, 741.0, Equal
+CadenceNotifierAdv: CadenceChange: 80.0
+CadenceDetector: Step (y: pass zero upward): 1447125514686
+CadenceNotifierAdv: ----> 751.0, 750.0, Equal
+CadenceNotifierAdv: CadenceChange: 79.36507936507937
+CadenceDetector: Step (y: pass zero upward): 1447125515442
+CadenceNotifierAdv: ----> 771.0, 756.0, Equal
+CadenceNotifierAdv: CadenceChange: 78.70572802798425
+CadenceDetector: Step (y: pass zero upward): 1447125516170
+CadenceNotifierAdv: ----> 714.0, 762.3333333333334, Equal
+CadenceNotifierAdv: CadenceChange: 80.50089445438282
+CadenceDetector: Step (y: pass zero upward): 1447125516890
+CadenceNotifierAdv: ----> 719.0, 745.3333333333334, Equal
+CadenceNotifierAdv: CadenceChange: 81.66969147005445
+CadenceDetector: Step (y: pass zero upward): 1447125517635
+CadenceNotifierAdv: ----> 746.0, 734.6666666666666, Equal
+CadenceNotifierAdv: CadenceChange: 82.60670032124827
+CadenceDetector: Step (y: pass zero upward): 1447125518378
+CadenceNotifierAdv: ----> 743.0, 726.3333333333334, Equal
+CadenceNotifierAdv: CadenceChange: 81.52173913043478
+CadenceDetector: Step (y: pass zero upward): 1447125519099
+CadenceNotifierAdv: ----> 724.0, 736.0, Equal
+CadenceNotifierAdv: CadenceChange: 81.33755083596928
+CadenceDetector: Step (y: pass zero upward): 1447125519862
+CadenceNotifierAdv: ----> 762.0, 737.6666666666666, Equal
+CadenceNotifierAdv: CadenceChange: 80.75370121130551
+CadenceDetector: Step (y: pass zero upward): 1447125520587
+CadenceNotifierAdv: ----> 723.0, 743.0, Equal
+CadenceNotifierAdv: CadenceChange: 81.48483476686283
+CadenceDetector: Step (y: pass zero upward): 1447125521319
+CadenceNotifierAdv: ----> 733.0, 736.3333333333334, Equal
+CadenceNotifierAdv: CadenceChange: 81.1541929666366
+CadenceDetector: Step (y: pass zero upward): 1447125522069
+CadenceNotifierAdv: ----> 752.0, 739.3333333333334, Equal
+CadenceNotifierAdv: CadenceChange: 81.52173913043478
+CadenceDetector: Step (y: pass zero upward): 1447125522793
+CadenceNotifierAdv: ----> 721.0, 736.0, Equal
+CadenceNotifierAdv: CadenceChange: 81.59564823209429
+CadenceDetector: Step (y: pass zero upward): 1447125523529
+CadenceNotifierAdv: ----> 735.0, 735.3333333333334, Equal
+CadenceNotifierAdv: CadenceChange: 81.52173913043478
+CadenceDetector: Step (y: pass zero upward): 1447125524247
+CadenceNotifierAdv: ----> 720.0, 736.0, Equal
+CadenceNotifierAdv: CadenceChange: 82.72058823529412
+CadenceDetector: Step (y: pass zero upward): 1447125524969
+CadenceNotifierAdv: ----> 721.0, 725.3333333333334, Equal
+CadenceNotifierAdv: CadenceChange: 82.72058823529412
+CadenceDetector: Step (y: pass zero upward): 1447125525747
+CadenceNotifierAdv: ----> 778.0, 725.3333333333334, Equal
+CadenceNotifierAdv: CadenceChange: 81.11762054979721
+CadenceDetector: Step (y: pass zero upward): 1447125526483
+CadenceNotifierAdv: ----> 736.0, 739.6666666666666, Equal
+CadenceNotifierAdv: CadenceChange: 80.53691275167785
+CadenceDetector: Step (y: pass zero upward): 1447125527189
+CadenceNotifierAdv: ----> 706.0, 745.0, Equal
+CadenceNotifierAdv: CadenceChange: 81.08108108108108
+CadenceDetector: Step (y: pass zero upward): 1447125527847
+CadenceNotifierAdv: ----> 659.0, 740.0, Equal
+CadenceNotifierAdv: CadenceChange: 85.67348881485006
+CadenceDetector: Step (y: pass zero upward): 1447125528493
+CadenceNotifierAdv: ----> 644.0, 700.3333333333334, Equal
+CadenceNotifierAdv: CadenceChange: 89.5968143354903
+CadenceDetector: Step (y: pass zero upward): 1447125529118
+CadenceNotifierAdv: ----> 627.0, 669.6666666666666, Equal
+CadenceNotifierAdv: CadenceChange: 93.2642487046632
+CadenceDetector: Step (y: pass zero upward): 1447125529812
+CadenceNotifierAdv: ----> 693.0, 643.3333333333334, Equal
+CadenceNotifierAdv: CadenceChange: 91.64969450101833
+CadenceDetector: Step (y: pass zero upward): 1447125530454
+CadenceNotifierAdv: ----> 643.0, 654.6666666666666, Equal
+CadenceNotifierAdv: CadenceChange: 91.69638308711156
+CadenceDetector: Step (y: pass zero upward): 1447125531118
+CadenceNotifierAdv: ----> 667.0, 654.3333333333334, Equal
+CadenceNotifierAdv: CadenceChange: 89.86520219670494
+CadenceDetector: Step (y: pass zero upward): 1447125531800
+CadenceNotifierAdv: ----> 678.0, 667.6666666666666, Equal
+CadenceNotifierAdv: CadenceChange: 90.54325955734407
+CadenceDetector: Step (y: pass zero upward): 1447125532469
+CadenceNotifierAdv: ----> 670.0, 662.6666666666666, Equal
+CadenceNotifierAdv: CadenceChange: 89.33002481389579
+CadenceDetector: Step (y: pass zero upward): 1447125533137
+CadenceNotifierAdv: ----> 672.0, 671.6666666666666, Equal
+CadenceNotifierAdv: CadenceChange: 89.10891089108911
+CadenceDetector: Step (y: pass zero upward): 1447125533781
+CadenceNotifierAdv: ----> 639.0, 673.3333333333334, Equal
+CadenceNotifierAdv: CadenceChange: 90.86320040383644
+CadenceDetector: Step (y: pass zero upward): 1447125534105
+CadenceNotifierAdv: ----> 324.0, 660.3333333333334, Smaller
+CadenceNotifierAdv: CadenceChange: 90.86320040383644
+CadenceDetectorAbsY: No one can run more than 250.0 steps per minute...
+CadenceDetectorAbsY: No one can run more than 250.0 steps per minute...
+CadenceDetectorAbsY: No one can run more than 250.0 steps per minute...
+CadenceDetectorAbsY: No one can run more than 250.0 steps per minute...
+CadenceDetectorAbsY: No one can run more than 250.0 steps per minute...
+CadenceDetectorAbsY: No one can run more than 250.0 steps per minute...
+CadenceDetectorAbsY: No one can run more than 250.0 steps per minute...
+CadenceDetector: Step (y: pass zero upward): 1447125534409
+CadenceNotifierAdv: ----> 628.0, 660.3333333333334, Equal
+CadenceNotifierAdv: CadenceChange: 92.8313563692625
+CadenceDetectorAbsY: No one can run more than 250.0 steps per minute...
+CadenceDetectorAbsY: No one can run more than 250.0 steps per minute...
+CadenceDetectorAbsY: No one can run more than 250.0 steps per minute...

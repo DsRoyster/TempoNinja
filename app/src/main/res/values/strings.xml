@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tempo Ninja</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cadenceTextViewText">Current Cadence</string>
+    <string name="invalidValText">---</string>
+    <string name="tempoTextViewText">Music Tempo</string>
+    <string name="runButtonText">Run</string>
+    <string name="nextButtonText">Next</string>
+    <string name="prevButtonText">Prev</string>
+    <string name="notification_subtitle">Counting your steps</string>
+    <string name="stopped">Cadence detect service stopped.</string>
+    <string name="started">Cadence detect service started.</string>
+	<string name="title_activity_tempo">Tempo Ninjutsu</string>
+    <string name="musicInfoTextViewText">No music info available</string>
+    <string name="tempoPromptTextViewText">The music is on! \nStart tapping when you hear the beats!</string>
+    <string name="tempoEmptyPromptTextViewText">Ready for beating? \n Tap to start!</string>
+    <string name="tempoWaitPromptTextViewText">Waiting for music to be loaded.</string>
+</resources>

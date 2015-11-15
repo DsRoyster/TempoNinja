@@ -1,0 +1,61 @@
+CadenceDetector: Step (y: pass zero upward): 1447572436710
+CadenceDetector: Step (y: pass zero upward): 1447572436775
+CadenceDetector: Step (y: pass zero upward): 1447572436785
+CadenceDetector: Step (y: pass zero upward): 1447572437280
+CadenceDetector: Step (y: pass zero upward): 1447572438019
+CadenceDetector: Step (y: pass zero upward): 1447572438750
+CadenceDetector: Step (y: pass zero upward): 1447572439482
+CadenceNotifierAdv2: CadenceChange (1): 81.74386920980926
+MainActivity: TimeDiff: 1.447572439484E12  CadDiff: 81.0  TempoDiff: 81.0
+MainActivity: tempo/cadence: 170.0877762218655/81.0
+CadenceDetector: Step (y: pass zero upward): 1447572440211
+CadenceNotifierAdv2: CadenceChange (2): 82.11678832116789
+MainActivity: TimeDiff: 699.0  CadDiff: 1.0  TempoDiff: 88.08777622186551
+CadenceDetector: Step (y: pass zero upward): 1447572440490
+CadenceDetector: Step (y: pass zero upward): 1447572440950
+CadenceNotifierAdv2: CadenceChange (3-5): 81.85538881309687
+MainActivity: TimeDiff: 1437.0  CadDiff: 0.0  TempoDiff: 89.08777622186551
+CadenceDetector: Step (y: pass zero upward): 1447572441690
+CadenceNotifierAdv2: CadenceChange (2): 81.48483476686283
+MainActivity: TimeDiff: 2180.0  CadDiff: 0.0  TempoDiff: 89.08777622186551
+CadenceDetector: Step (y: pass zero upward): 1447572442445
+CadenceNotifierAdv2: CadenceChange (2): 80.46490835940993
+MainActivity: TimeDiff: 2957.0  CadDiff: 1.0  TempoDiff: 90.08777622186551
+CadenceDetector: Step (y: pass zero upward): 1447572443144
+CadenceNotifierAdv2: CadenceChange (2): 82.04193254329991
+MainActivity: TimeDiff: 3632.0  CadDiff: 1.0  TempoDiff: 88.08777622186551
+CadenceDetector: Step (y: pass zero upward): 1447572443891
+CadenceNotifierAdv2: CadenceChange (2): 81.78100863243981
+MainActivity: TimeDiff: 4441.0  CadDiff: 0.0  TempoDiff: 89.08777622186551
+CadenceDetector: Step (y: pass zero upward): 1447572444582
+CadenceNotifierAdv2: CadenceChange (2): 84.30913348946136
+MainActivity: TimeDiff: 5087.0  CadDiff: 3.0  TempoDiff: 86.08777622186551
+CadenceDetector: Step (y: pass zero upward): 1447572445346
+CadenceNotifierAdv2: CadenceChange (2): 81.70676350431229
+MainActivity: TimeDiff: 5838.0  CadDiff: 0.0  TempoDiff: 89.08777622186551
+CadenceDetector: Step (y: pass zero upward): 1447572445624
+CadenceDetector: Step (y: pass zero upward): 1447572446122
+CadenceNotifierAdv2: CadenceChange (3-5): 80.71748878923766
+MainActivity: TimeDiff: 6610.0  CadDiff: 1.0  TempoDiff: 90.08777622186551
+CadenceDetector: Step (y: pass zero upward): 1447572446920
+CadenceNotifierAdv2: CadenceChange (2): 76.98887938408896
+MainActivity: TimeDiff: 7408.0  CadDiff: 5.0  TempoDiff: 94.08777622186551
+CadenceDetector: Step (y: pass zero upward): 1447572447294
+CadenceDetector: Step (y: pass zero upward): 1447572447734
+CadenceNotifierAdv2: CadenceChange (3-5): 75.4084625052367
+MainActivity: TimeDiff: 8222.0  CadDiff: 6.0  TempoDiff: 95.08777622186551
+CadenceDetector: Step (y: pass zero upward): 1447572448399
+CadenceDetector: Step (y: pass zero upward): 1447572449112
+CadenceDetector: Step (y: pass zero upward): 1447572449930
+CadenceDetector: Step (y: pass zero upward): 1447572450724
+CadenceDetector: Step (y: pass zero upward): 1447572451473
+CadenceNotifierAdv2: CadenceChange (1): 76.23888182973316
+MainActivity: TimeDiff: 11961.0  CadDiff: 5.0  TempoDiff: 94.08777622186551
+MainActivity: tempo/cadence: 155.16107823800132/76.0
+CadenceDetector: Step (y: pass zero upward): 1447572452258
+CadenceNotifierAdv2: CadenceChange (2): 77.35281478298238
+MainActivity: TimeDiff: 762.0  CadDiff: 1.0  TempoDiff: 78.16107823800132
+CadenceDetector: Step (y: pass zero upward): 1447572453060
+CadenceNotifierAdv2: CadenceChange (2): 76.95596408721676
+MainActivity: TimeDiff: 1577.0  CadDiff: 0.0  TempoDiff: 79.16107823800132
+CadenceDetector: Step (y: pass zero upward): 1447572453688
