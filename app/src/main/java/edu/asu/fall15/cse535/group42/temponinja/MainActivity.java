@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
 	// View Items
 	ListView	playlistListView;
 	Button		playButton;
-	Button		prevButton;
+	//Button		prevButton;
 	Button		nextButton;
 	TextView	cadenceValTextView;
 	TextView	tempoValTextView;
@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
 		// Obtain list of views
 		playlistListView 	= (ListView) findViewById(R.id.playlistListView);
 		playButton 			= (Button) findViewById(R.id.playButton);
-		prevButton 			= (Button) findViewById(R.id.prevButton);
+		//prevButton 			= (Button) findViewById(R.id.prevButton);
 		nextButton 			= (Button) findViewById(R.id.nextButton);
 		cadenceValTextView 	= (TextView) findViewById(R.id.cadenceValTextView);
 		tempoValTextView 	= (TextView) findViewById(R.id.tempoValTextView);

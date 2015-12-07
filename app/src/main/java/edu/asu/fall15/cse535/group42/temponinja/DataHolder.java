@@ -308,6 +308,7 @@ public class DataHolder {
 		}
 
 		// Obtain music list
+		musicMap.clear();
 		List<File> musicList = getMusicList();	 // Get list of all music from the sdcard
 		if (!musicList.isEmpty()) {
 			for (File musicFile : musicList) {
